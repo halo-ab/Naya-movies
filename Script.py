@@ -5,11 +5,13 @@
 class script(object):
     START_TXT = """<b><blockquote>ʜᴇʟʟᴏ {} 👋,</blockquote>
     
-Here You Can Get Movie's, Just Sent Movie OR WebSeries Name With Proper Spelling..!! 😍</b>"""
+Here You Can Get Movie's, Just Sent Movie OR WebSeries Name With Proper Spelling and release year 
+for eg. "Chhaava 2025" 😍</b>"""
 
     CLONE_START_TXT = """<b><blockquote>ʜᴇʟʟᴏ {}, ᴍʏ ɴᴀᴍᴇ <a href=https://t.me/{}>{}</a></blockquote>
     
-Here You Can Get Movie's, Just Sent Movie OR WebSeries Name With Proper Spelling..!! 😍</b>"""
+Here You Can Get Movie's, Just Sent Movie OR WebSeries Name With Proper Spelling and release year 
+for eg. "Chhaava 2025" 😍</b>"""
     
     HELP_TXT = """<b>ʜᴇʟʟᴏ {}
 ʜᴇʀᴇ ɪs ᴀʟʟ ᴍʏ ᴜsᴇғᴜʟʟ ғᴇᴀᴛᴜʀᴇs.</b>"""
@@ -752,3 +754,4 @@ Example:- /set_caption 📕 File Name: {filename}
 
 
     
+
